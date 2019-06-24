@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Practical 4</string>
+    <string name="action_favorite" />
+    <string name="action_settings" />
+    <string name="action_search">action_search</string>
+    <string name="share" />
+    <string name="dialog_fire_missiles" />
+    <string name="fire">fire</string>
+    <string name="cancel">cancel</string>
+    <string name="go_to_dialog">Go to dialog</string>
+    <string name="fire_missles_dialog">fire missles dialog</string>
+    <string name="action_settings_message">Settings</string>
+    <string name="action_favorite_message">Favorite</string>
+    <string name="button">Button</string>
+    <string name="pick_time" />
+    <string name="pick_date" />
+</resources>
